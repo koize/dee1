@@ -1,0 +1,7 @@
+{
+    "sketch": "DiyMotionController.ino",
+    "board": "esp32:esp32:ttgo-lora32",
+    "configuration": "Revision=TTGO_LoRa32_v21new,FlashFreq=80,UploadSpeed=921600,DebugLevel=none,EraseFlash=none",
+    "output": "./../build",
+    "port": "COM5"
+}
